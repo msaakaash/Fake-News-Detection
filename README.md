@@ -8,8 +8,8 @@ Fake News Detection using various machine learning models like Naïve Bayes, Log
 ```
 📦 Fake-News-Detection
 ├── 📂 Dataset                
-├── fakeNewsDetection.ipynb
 ├── README.md
+├── fakeNewsDetection.ipynb
 
 ```
 ## Models Used
